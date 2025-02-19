@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+.rojo{
+    background-color:firebrick;
+}
+.rosa{
+    background-color: hotpink;
+}
+.rojo,.rosa{
+    color: white;
+}
